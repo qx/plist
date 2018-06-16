@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>assets</key>
+				<array>
+					<dict>
+						<key>kind</key>
+						<string>software-package</string>
+						<key>url</key>
+						<string>https://bomuipa.oss-cn-hangzhou.aliyuncs.com/qianka_ReSigned_20180401145443.ipa_1.0.1.ipa?Expires=1529191266&OSSAccessKeyId=TMP.AQEIXo0X8VOLOPf7DUINWiT9O64bNuGPBNO9FjQr9hms4OMXRMfAgtT8giscAAAwLAIUECOevESNoIWoQB5TcW9QYOv87VYCFHVv4pk6lWpBljgWeb5lAMkW7cY8&Signature=xjSyeqtkH%2BF89JR%2FNVrcQLxLq3c%3D</string>
+					</dict>
+				</array>
+				<key>metadata</key>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.fxtx.xiaobanlv</string>
+					<key>bundle-version</key>
+					<string>1.0</string>
+					<key>kind</key>
+					<string>software</string>
+					<key>title</key>
+					<string>xiaobanlv</string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+</plist>
